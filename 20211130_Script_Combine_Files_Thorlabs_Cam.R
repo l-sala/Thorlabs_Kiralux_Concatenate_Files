@@ -1,4 +1,8 @@
-# 20211130 - This script combines .tif stacks from the Thorlabs Kyralux 135MUN camera in one single folder
+# This script combines .tif stacks from the Thorlabs Kyralux 135MUN camera in one single folder
+# Luca Sala, PhD
+# 30/11/2021
+#------------------------------------------------------------------------------------------------
+
 require(filesstrings)
 
 dir = chcoose.dir(default = "", caption = "Select folder")

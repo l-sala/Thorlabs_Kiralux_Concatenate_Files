@@ -1,4 +1,4 @@
-# Thorlabs_Kiralux_Stitching_Files
+# Thorlabs_Kiralux_Concatenate_Files
 * Author: Luca Sala, PhD
 * Date: 30/11/2021
 ---

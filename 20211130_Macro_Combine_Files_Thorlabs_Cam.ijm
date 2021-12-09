@@ -1,3 +1,8 @@
+// This macro concatenates all the files in a directory and nested subdirectory in a .Tiff Image Sequence
+// Luca Sala
+// 30/11/2021
+//--------------------------------------------------------------------------------------------------------
+
 input = getDirectory("Choose_input dir");
 output = getDirectory("Choose output dir");
 list = getFileList(input);

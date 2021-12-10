@@ -5,7 +5,7 @@
 
 require(filesstrings)
 
-dir = chcoose.dir(default = "", caption = "Select folder")
+dir = choose.dir(default = "", caption = "Select folder")
 lista <- list.files(dir, pattern = "*.tif")
 lista_senza_suffisso <- str_extract(lista, regex("(.*)_"))
 
